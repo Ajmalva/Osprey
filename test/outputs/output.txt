@@ -1,0 +1,3 @@
+output
+- image frame capture {picam2.capture_file('image{0:04d}.jpg'.format(i))}
+- video capture
