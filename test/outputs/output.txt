@@ -1,3 +1,3 @@
 output
 - image frame capture {picam2.capture_file('image{0:04d}.jpg'.format(i))}
-- video capture
+- video capture {picam2.start_and_record_video("test.mp4", duration=5)}
