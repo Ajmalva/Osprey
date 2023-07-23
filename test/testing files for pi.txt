@@ -1,2 +1,5 @@
-test files for rasperry pi
+test files for raspberry pi
 - framerate test
+- Video Test
+- Image capture Test
+- Camera Test {libcamera -hello }
